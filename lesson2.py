@@ -58,5 +58,4 @@ if __name__ == "__main__":
 
     car1.display_info()
     bike1.display_info()
-
     print(f"Общее количество транспортных средств: {Vehicle.get_vehicle_count()}")
